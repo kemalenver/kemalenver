@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Renderer with Metal &lpar;Part 1&rpar;](https://occlusion.medium.com/building-a-renderer-with-metal-part-1-c0c6f1f3b5bd?source=rss-92652f34f3f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
