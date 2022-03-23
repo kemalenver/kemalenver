@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kemalenver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kemalenver" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kemalenver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemalenver" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/binaryguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="binaryguy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kemal-christopher-enver-50587036/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemalenver" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/582225/binaryguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="binaryguy" height="30" width="40" /></a>
 <a href="https://medium.com/@occlusion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@occlusion" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kemalenver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kemalenver" height="30" width="40" /></a>
 </p>
