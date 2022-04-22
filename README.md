@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning **Metal and Vulkan**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [Building a Renderer with Metal &lpar;Part 2&rpar;— Setting up a Development Environment](https://occlusion.medium.com/building-a-renderer-with-metal-part-2-setting-up-a-development-environment-e66f51ca6820?source=rss-92652f34f3f8------2)
 - [Building a Renderer with Metal &lpar;Part 1&rpar;](https://occlusion.medium.com/building-a-renderer-with-metal-part-1-c0c6f1f3b5bd?source=rss-92652f34f3f8------2)
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
